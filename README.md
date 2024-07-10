@@ -1,5 +1,4 @@
-## Hi there 👋
-## Ларина Татьяна
+## ✨ Ларина Татьяна ✨
 <!--
 **lariuha/lariuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
